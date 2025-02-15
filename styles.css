@@ -1,0 +1,47 @@
+img {
+    width: 150px;
+    height: 150px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+.header {
+    display: flex;
+}
+
+#blue {
+    width: 200px;
+    height: auto;
+}
+
+.footer,
+.header,
+.section-one {
+    background-color: #1F2937;
+    color: 
+    white;
+}
+
+.section-two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.examples {
+    display: flex;
+    width: 150px;
+    gap: 24px;
+    justify-content: center;
+    text-align: center;
+}
